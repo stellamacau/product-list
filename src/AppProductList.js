@@ -1,6 +1,5 @@
 import React from "react";
 import ListItem from "./ListItem";
-import SharedContext from "./SharedContext";
 
 class App extends React.Component {
   state = {
